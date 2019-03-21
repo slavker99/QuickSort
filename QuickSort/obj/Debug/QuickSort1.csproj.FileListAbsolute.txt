@@ -1,0 +1,13 @@
+C:\Users\Максим\Desktop\soft\QuickSort\QuickSort1\QuickSort1\bin\Debug\QuickSort1.exe.config
+C:\Users\Максим\Desktop\soft\QuickSort\QuickSort1\QuickSort1\bin\Debug\QuickSort1.exe
+C:\Users\Максим\Desktop\soft\QuickSort\QuickSort1\QuickSort1\bin\Debug\QuickSort1.pdb
+C:\Users\Максим\Desktop\soft\QuickSort\QuickSort1\QuickSort1\obj\Debug\QuickSort1.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\soft\QuickSort\QuickSort1\QuickSort1\obj\Debug\QuickSort1.exe
+C:\Users\Максим\Desktop\soft\QuickSort\QuickSort1\QuickSort1\obj\Debug\QuickSort1.pdb
+E:\Рабочий стол\QuickSort1\bin\Debug\QuickSort1.exe.config
+E:\Рабочий стол\QuickSort1\bin\Debug\QuickSort1.exe
+E:\Рабочий стол\QuickSort1\bin\Debug\QuickSort1.pdb
+E:\Рабочий стол\QuickSort1\obj\Debug\QuickSort1.csprojResolveAssemblyReference.cache
+E:\Рабочий стол\QuickSort1\obj\Debug\QuickSort1.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\QuickSort1\obj\Debug\QuickSort1.exe
+E:\Рабочий стол\QuickSort1\obj\Debug\QuickSort1.pdb
