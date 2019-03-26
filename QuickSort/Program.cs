@@ -10,7 +10,7 @@ namespace QuickSort1
     {        
         static void Main(string[] args)
         {
-            var array = QSort.GenerateArray(5);
+            var array = QSort.GenerateArray(5, int.MaxValue);
             //Вывод элементов массива до сортировки
             for (var i = 0; i < array.Length; ++i)
                 Console.Write(array[i] + " ");

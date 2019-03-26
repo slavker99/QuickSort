@@ -11,3 +11,10 @@ E:\Рабочий стол\QuickSort1\obj\Debug\QuickSort1.csprojResolveAssembly
 E:\Рабочий стол\QuickSort1\obj\Debug\QuickSort1.csproj.CoreCompileInputs.cache
 E:\Рабочий стол\QuickSort1\obj\Debug\QuickSort1.exe
 E:\Рабочий стол\QuickSort1\obj\Debug\QuickSort1.pdb
+C:\My Documents\GitHub\QuickSort\QuickSort\obj\Debug\QuickSort1.csprojResolveAssemblyReference.cache
+C:\My Documents\GitHub\QuickSort\QuickSort\obj\Debug\QuickSort1.csproj.CoreCompileInputs.cache
+C:\My Documents\GitHub\QuickSort\QuickSort\obj\Debug\QuickSort1.exe
+C:\My Documents\GitHub\QuickSort\QuickSort\obj\Debug\QuickSort1.pdb
+C:\My Documents\GitHub\QuickSort\QuickSort\bin\Debug\QuickSort1.exe.config
+C:\My Documents\GitHub\QuickSort\QuickSort\bin\Debug\QuickSort1.exe
+C:\My Documents\GitHub\QuickSort\QuickSort\bin\Debug\QuickSort1.pdb
